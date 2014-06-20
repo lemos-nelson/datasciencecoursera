@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera.org Data Science projetc
+Coursera.org Data Science project
